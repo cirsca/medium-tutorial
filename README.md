@@ -6,3 +6,6 @@ I wanted to learn Meteor inside and out and the best way to learn it is to expla
 
 ## Pt 1
 [Initialize](https://medium.com/@BeardedTim/let-s-learn-meteor-pt-1-168b7c4a75d3)
+
+## Pt 2
+[T-Minus 30](https://medium.com/@BeardedTim/let-s-learn-meteor-pt-2-b2e5918b9604);
