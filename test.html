@@ -5,11 +5,17 @@
 <body>
   <h1>Welcome to Meteor!</h1>
 
-  {{> hello}}
+  {{> test}}
 </body>
 
-<template name="hello">
-  
-  <a href="#" class="test">I should call console.logs</a>
+<template name="test">
 
+  <form id="friends">
+    <input type="text" name="firstName" placeholder="First Name"><br>
+    <input type="text" name="lastName" placeholder="Last Name"><br>
+    <input type="tel" name="phoneNumber" placeholder="Phone Number"><br>
+    <input type="tel" name="birthYear" placeholder="Birth Year"><br>
+    <input type="submit" value="Submit">
+  </form>
+  
 </template>
